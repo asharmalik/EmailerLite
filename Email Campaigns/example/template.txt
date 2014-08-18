@@ -1,0 +1,6 @@
+%name,
+
+This is an example email. My favorite color is %color.
+
+Thank you,
+Name
